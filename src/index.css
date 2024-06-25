@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pagination_buttons {
+  @apply px-3 py-1 cursor-pointer rounded border border-gray-300;
+}
